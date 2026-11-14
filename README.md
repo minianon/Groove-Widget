@@ -150,7 +150,7 @@ Music players are deeply personal tools we interact with daily. Small UX improve
 
 If you find this helpful, consider supporting me:
 
-- **Sponsor Me:** [Buy Me a Coffee!](https://github.com/sponsors/TuShArBhArDwA)
+- **Support:** [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon)
 
 ---
 
